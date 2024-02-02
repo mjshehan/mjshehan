@@ -3,7 +3,8 @@ Hi👋
 I'm a math and CS student at UVic and hosting some of my work on this page. 
 
 If you'd like to use my one dimensional linear optimizer, "The Amazing Lumber Calculator", it's currently deployed at: https://lumber-calculator-python-kmrqin4jgq-uc.a.run.app/calc
-The source code is in the lumber-cutter-python repo
+
+The source code is in the lumber-cutter-python repo: https://github.com/mjshehan/lumber-calculator-python
 
 Thanks for checking it out!
 
