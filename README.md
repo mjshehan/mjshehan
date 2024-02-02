@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mjshehan
+Hi👋
 
-I'm a math and CS student at UVic and hosting some of my work on this page.
+I'm a math and CS student at UVic and hosting some of my work on this page. 
 
-If you'd like to use my lumber cutting calculator, it's currently deployed via Google Cloud at: https://lumber-calculator-python-kmrqin4jgq-uc.a.run.app/calc
+If you'd like to use my optimization calculator, it's currently deployed at: https://lumber-calculator-python-kmrqin4jgq-uc.a.run.app/calc
 
 Thanks for checking it out!
 
