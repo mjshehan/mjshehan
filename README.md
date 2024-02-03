@@ -8,11 +8,11 @@ If you'd like to check out :arrow_right: ["The Amazing Lumber Calculator"](https
 
 The source code is in the [lumber-cutter-python repo](https://github.com/mjshehan/lumber-calculator-python)
 
-My other projects were all done as part of my work as a research assistant at the University of Waterloo or my math and CS degree at University of Victoria:
+My other projects were all done as part of my work as a research assistant at the University of Waterloo or my math and CS degree at the University of Victoria:
 
-*[Cognitive Effort Research Poster](https://github.com/mjshehan/cognitive-effort/blob/main/Cog-Sci%20Poster-%20Publisher%20-%201.8.pdf)
-*[Python Ray Tracer](https://github.com/mjshehan/ray-tracer-python)
-*[Central Limit Theorem Simulations and Visualizaitions]( https://github.com/mjshehan/CLT-simulations-R/blob/main/Z-square-CLT-demo.pdf)
+* [Cognitive Effort Research Poster](https://github.com/mjshehan/cognitive-effort/blob/main/Cog-Sci%20Poster-%20Publisher%20-%201.8.pdf)
+* [Python Ray Tracer](https://github.com/mjshehan/ray-tracer-python)
+* [Central Limit Theorem Simulations and Visualizaitions]( https://github.com/mjshehan/CLT-simulations-R/blob/main/Z-square-CLT-demo.pdf)
 
 Thanks for checking out my profile!
 
