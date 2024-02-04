@@ -1,6 +1,6 @@
 Hi👋
 
-I'm a math and CS student at UVic and hosting some of my work on this page. 
+I'm a math and CS student at UVic hosting some of my work on this page. 
 
 I built an optimization web app for one-dimensional stock cutting problems using a mixted integer solver (SCIP), Flask and Bootstrap and deployed it with Docker and Google Cloud Services.
 
