@@ -2,7 +2,7 @@ Hi👋
 
 I'm a math and CS student at UVic and hosting some of my work on this page. 
 
-In addition, I built an optimization web app for a one-dimensional stock cutting problems using a mixted integer solver (SCIP), Flask and Bootstrap and deployed it with Docker and Google Cloud 
+I built an optimization web app for a one-dimensional stock cutting problems using a mixted integer solver (SCIP), Flask and Bootstrap and deployed it with Docker and Google Cloud Services.
 
 If you'd like to check out :arrow_right: ["The Amazing Lumber Calculator"](https://lumber-calculator-python-kmrqin4jgq-uc.a.run.app/calc) :arrow_left:  you can find it here! 
 
